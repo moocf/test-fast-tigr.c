@@ -1,0 +1,27 @@
+{
+  "name": "test-fast-tigr.c",
+  "version": "1.0.0",
+  "description": "Testing TIGR quickly, demo only.",
+  "keywords": [
+    "test",
+    "tigr"
+  ],
+  "homepage": "https://github.com/moocf/test-fast-tigr.c#readme",
+  "bugs": {
+    "url": "https://github.com/moocf/test-fast-tigr.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moocf/test-fast-tigr.c.git"
+  },
+  "license": "MIT",
+  "author": "wolfram77@gmail.com",
+  "type": "commonjs",
+  "main": "main.c",
+  "scripts": {
+    "test": "exit"
+  },
+  "dependencies": {
+    "tigr.c": "^3.2.4"
+  }
+}

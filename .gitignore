@@ -1,3 +1,6 @@
+# Generated files
+*.exe
+
 # Logs
 logs
 *.log
